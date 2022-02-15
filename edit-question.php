@@ -26,7 +26,7 @@ if(!isset($_SESSION["auth"])){
       <form method="post">
       <br ><br >
     <div class="form-group">
-      <label for="form-label" class="form-label">Jai changer ca par Alma</label>
+      <label for="form-label" class="form-label">Titre de la question</label>
       <input type="text" class="form-control" name="titre" values=" <? $question_titre ?>" >
     </div>
     <br ><br >
