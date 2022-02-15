@@ -23,7 +23,7 @@
         <div class="card-body">
           <p class="card-text"><?=$reponse['Description']; ?></p>
           <div class="row">
-            <a href="#" class="col btn btn-primary btn-sm me-2">Acceder à la question</a>
+            <a href="#" class="col btn btn-primary btn-sm me-2">Acceder à la question de Mr Alma chouchou</a>
           </div>
         </div>
     </div>
